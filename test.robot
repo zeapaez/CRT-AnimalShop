@@ -7,7 +7,7 @@ Suite Teardown         Close All Browsers
 
 *** Test Cases ***
 Test the home page
-    [Tags]             Broken
+    [Tags]             Broken    Smoke
     [Documentation]    Go to the web shop, and verify that the slogan text appears on the page.
     GoTo               https://qentinelqi.github.io/shop/
     VerifyText         Find your spirit animal
