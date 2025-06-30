@@ -86,3 +86,7 @@ Home
 Our Story
     [Documentation]    Set the application state to the about us page.
     GoTo               https://qentinelqi.github.io/shop/about/
+
+New Test Case Cart
+    [Documentation]    This is comment of the new Test Case
+    
